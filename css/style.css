@@ -1,0 +1,17 @@
+.veg{
+   font-family: 'Bricolage Grotesque', sans-serif; 
+   font-family: 'Libre Baskerville', serif;
+   font-family: 'Black Ops One',cursive;
+   color: green;
+}
+.text2{
+   font-family: 'Black Ops One', cursive;
+   font-family: 'Bricolage Grotesque', sans-serif;
+   font-family: 'Kanit', sans-serif;
+   /* font-family: 'Libre Baskerville', serif; */
+   font-family: 'Roboto Mono', monospace;
+   /* font-family: 'Tulpen One', cursive; */
+}
+.trans{
+   opacity: 0.6;
+}
